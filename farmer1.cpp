@@ -8,10 +8,10 @@ int main() {
     int dis_b = b-x;
     int dis_a = x-a;
     if(dis_a > dis_b){
-        
+
     }
     else{
-
+        
     }
     return 0;
 }
